@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\bin\Debug\net6.0\home01sem_task03.exe
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\bin\Debug\net6.0\home01sem_task03.deps.json
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\bin\Debug\net6.0\home01sem_task03.runtimeconfig.json
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\bin\Debug\net6.0\home01sem_task03.dll
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\bin\Debug\net6.0\home01sem_task03.pdb
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.AssemblyInfo.cs
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.dll
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\refint\home01sem_task03.dll
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.pdb
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\home01sem_task03.genruntimeconfig.cache
+C:\Users\user\Desktop\Study test\homework\home01sem_task03\obj\Debug\net6.0\ref\home01sem_task03.dll
